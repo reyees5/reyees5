@@ -1,0 +1,5 @@
+C:\Users\Reyes\Documents\Visual Studio 2015\Projects\Activitat_Autenticacio\Activitat_Autenticacio\bin\Debug\Activitat_Autenticacio.exe
+C:\Users\Reyes\Documents\Visual Studio 2015\Projects\Activitat_Autenticacio\Activitat_Autenticacio\bin\Debug\Activitat_Autenticacio.pdb
+C:\Users\Reyes\Documents\Visual Studio 2015\Projects\Activitat_Autenticacio\Activitat_Autenticacio\obj\Debug\Activitat_Autenticacio.csprojResolveAssemblyReference.cache
+C:\Users\Reyes\Documents\Visual Studio 2015\Projects\Activitat_Autenticacio\Activitat_Autenticacio\obj\Debug\Activitat_Autenticacio.exe
+C:\Users\Reyes\Documents\Visual Studio 2015\Projects\Activitat_Autenticacio\Activitat_Autenticacio\obj\Debug\Activitat_Autenticacio.pdb
